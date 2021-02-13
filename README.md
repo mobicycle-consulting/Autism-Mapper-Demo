@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/mobicycle-consulting/Autism-Mapper-Demo/pulls">
+    <img src="https://badgen.net/github/prs/mobicycle-consulting/Autism-Mapper-Demo" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/mobicycle-consulting/Autism-Mapper-Demo" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
